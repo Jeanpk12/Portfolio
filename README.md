@@ -2,6 +2,9 @@
 
 Este é o código-fonte do meu portfólio pessoal. O portfólio é uma página web que apresenta de forma minimalista informações sobre mim, tais como, minhas habilidades, meus projetos e fornece meios de contato.
 
+![image](https://github.com/Jeanpk12/Portifolio/assets/122842874/eae04590-43fd-455a-9956-2d2a5961dcf6)
+
+
 ## Estrutura do Projeto
 
 O projeto é estruturado em HTML, CSS e JavaScript. Aqui está uma breve explicação sobre os principais arquivos e pastas:
