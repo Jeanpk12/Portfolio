@@ -1,6 +1,6 @@
 # Portfólio de Jean Oliveira
 
-Este é o código-fonte de um portfólio pessoal desenvolvido por Jean Oliveira. O portfólio é uma página web que apresenta informações sobre Jean, suas habilidades, projetos e fornece meios de contato.
+Este é o código-fonte do meu portfólio pessoal. O portfólio é uma página web que apresenta de forma minimalista informações sobre mim, tais como, minhas habilidades, meus projetos e fornece meios de contato.
 
 ## Estrutura do Projeto
 
